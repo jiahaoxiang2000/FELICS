@@ -1,4 +1,0 @@
-High performance implementation of Speck 64/128
-
-- Three SPECK rounds are performed per loop iteration
-- Assembly is used for AVR and MSP implementations

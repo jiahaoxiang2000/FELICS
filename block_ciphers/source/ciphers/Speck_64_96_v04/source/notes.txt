@@ -1,4 +1,0 @@
-Balanced implementation of Speck 64/96
-
-- A single SPECK round is performed per loop iteration
-- Assembly is used for AVR and MSP
