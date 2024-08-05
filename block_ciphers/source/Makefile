@@ -36,7 +36,7 @@
 
 
 CIPHERDIR = ./ciphers
-# EXAMPLECIPHER = ./ciphers/CipherName_BlockSizeInBits_KeySizeInBits_v01
+EXAMPLECIPHER = ./ciphers/CipherName_BlockSizeInBits_KeySizeInBits_v01
 
 ALLCIPHERS = $(wildcard $(CIPHERDIR)/*)
 CIPHERS = $(filter-out $(EXAMPLECIPHER), $(ALLCIPHERS))
