@@ -11,4 +11,5 @@ FELICS.zip
 .vscode
 #Personal anotations
 improv.md
-
+# all build directories
+build/
